@@ -1,15 +1,15 @@
 # Classroom Point Tracker Privacy Policy
 
-**Effective Date:** May 18, 2026
-**Last Updated:** May 18, 2026
-
-This Privacy Policy describes how the **TCS Self-Regulation Point Tracker** ("the App," "we," "us," or "our") collects, uses, stores, and protects information when used by authorized educators, administrators, and staff. By using the App, you agree to the practices described below.
+**Effective Date:** May 28, 2026
+**Last Updated:** May 28, 2026
+c
+This Privacy Policy describes how the **Classroom Point Tracker** ("the App," "we," "us," or "our") collects, uses, stores, and protects information when used by authorized educators, administrators, and staff. By using the App, you agree to the practices described below.
 
 ---
 
 ## 1. Who We Are
 
-The TCS Self-Regulation Point Tracker is an educational tool designed for use by authorized school staff to track, score, and report on student self-regulation and classroom behavior. The App is intended for institutional use only and is not directed to children under the age of 13 as end users.
+The Classroom Point Tracker is an educational tool designed for use by authorized school staff to track, score, and report on student self-regulation and classroom behavior. The App is intended for institutional use only and is not directed to children under the age of 13 as end users.
 
 ## 2. Information We Collect
 
