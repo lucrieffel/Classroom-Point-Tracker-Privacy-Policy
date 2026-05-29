@@ -109,4 +109,4 @@ If you have questions or concerns about this Privacy Policy or the App's privacy
 
 ---
 
-*This Privacy Policy is provided for the TCS Self-Regulation Point Tracker iOS application and applies solely to information collected through that App.*
+*This Privacy Policy is provided for the Classroom Point Tracker iOS application and applies solely to information collected through that App.*
